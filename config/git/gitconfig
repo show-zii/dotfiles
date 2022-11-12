@@ -1,0 +1,6 @@
+[include]
+path = ~/.gitconfig_local
+[core]
+	autocrlf = false
+[color]
+	ui = true
