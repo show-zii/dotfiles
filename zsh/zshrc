@@ -12,4 +12,4 @@ fi
 
 # Customize to your needs...
 eval "$(fnm env --use-on-cd)"
-autoload -Uz compinit && compinit
+autoload -Uz compinit && compinit -u
